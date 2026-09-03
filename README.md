@@ -4,6 +4,10 @@ Painel administrativo desenvolvido como parte do projeto acadêmico **Kaeru Prod
 
 Esta aplicação representa a área interna do sistema, responsável pelo gerenciamento dos dados utilizados pelo catálogo público da Kaeru.
 
+## 📸 Preview
+
+![Painel Administrativo Kaeru](kaeruadm.png)
+
 ## ✨ Funcionalidades
 
 - Autenticação de administrador
