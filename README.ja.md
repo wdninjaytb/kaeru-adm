@@ -31,6 +31,7 @@ Centro Universitário Integradoの**システム分析・開発（ADS）**コー
 - CSS
 - Bootstrap
 - JavaScript
+- Typescript
 - PDO
 
 ## 🗂️ システムについて
