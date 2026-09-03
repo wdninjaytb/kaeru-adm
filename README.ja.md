@@ -8,7 +8,7 @@ Centro Universitário Integradoの**システム分析・開発（ADS）**コー
 
 ## 📸 プレビュー
 
-![Kaeru Produtos Orientais 管理システム](painel-admin-kaeru.png)
+![Kaeru Produtos Orientais 管理システム](admkaeru.png)
 
 ## ✨ 主な機能
 
@@ -31,7 +31,7 @@ Centro Universitário Integradoの**システム分析・開発（ADS）**コー
 - CSS
 - Bootstrap
 - JavaScript
-- Typescript
+- TypeScript
 - PDO
 
 ## 🗂️ システムについて
