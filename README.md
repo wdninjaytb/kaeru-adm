@@ -19,6 +19,7 @@ Esta aplicação representa a área interna do sistema, responsável pelo gerenc
 - Integração com banco de dados
 - Validação de formulários
 - Interface administrativa separada do catálogo público
+- Dashboard com indicadores de produtos, categorias e estoque
 
 ## 🛠️ Tecnologias utilizadas
 
