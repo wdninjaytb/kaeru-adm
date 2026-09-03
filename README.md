@@ -6,7 +6,7 @@ Esta aplicação representa a área interna do sistema, responsável pelo gerenc
 
 ## 📸 Preview
 
-![Painel Administrativo Kaeru](kaeruadm.png)
+![Painel Administrativo Kaeru](admkaeru.png)
 
 ## ✨ Funcionalidades
 
