@@ -31,7 +31,7 @@ This application represents the internal area of the system, responsible for man
 - CSS
 - Bootstrap
 - JavaScript
-- Typescript
+- TypeScript
 - PDO
 
 ## 🗂️ About the System
