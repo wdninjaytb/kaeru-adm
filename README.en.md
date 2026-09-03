@@ -8,7 +8,7 @@ This application represents the internal area of the system, responsible for man
 
 ## 📸 Preview
 
-![Kaeru Produtos Orientais Admin Panel](painel-admin-kaeru.png)
+![Kaeru Produtos Orientais Admin Panel](admkaeru.png)
 
 ## ✨ Features
 
