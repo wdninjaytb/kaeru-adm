@@ -1,5 +1,7 @@
 # 🐸 Kaeru Produtos Orientais — Painel Administrativo
 
+🇧🇷 **Português** | [🇺🇸 English](README.en.md) | [🇯🇵 日本語](README.ja.md)
+
 Painel administrativo desenvolvido como parte do projeto acadêmico **Kaeru Produtos Orientais**, durante o curso de Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado.
 
 Esta aplicação representa a área interna do sistema, responsável pelo gerenciamento dos dados utilizados pelo catálogo público da Kaeru.
@@ -54,3 +56,11 @@ A interface pública do projeto está disponível em um repositório separado.
 Projeto desenvolvido como atividade acadêmica do curso de **Análise e Desenvolvimento de Sistemas**.
 
 O desenvolvimento do painel envolveu conceitos de autenticação, sessões, operações CRUD, integração com banco de dados e construção de interfaces administrativas.
+
+## ⚠️ Aviso
+
+Este projeto foi desenvolvido para fins acadêmicos com autorização da **Kaeru Produtos Orientais**, estabelecimento real localizado em Campo Mourão, Paraná.
+
+As informações comerciais presentes no projeto foram utilizadas com autorização durante o desenvolvimento.
+
+Este repositório disponibiliza o código-fonte exclusivamente para fins acadêmicos e de portfólio. A aplicação não representa um sistema administrativo oficial da empresa e não está hospedada ou disponível publicamente como serviço.
