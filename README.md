@@ -31,7 +31,7 @@ Esta aplicação representa a área interna do sistema, responsável pelo gerenc
 - CSS
 - Bootstrap
 - JavaScript
-- Typescript
+- TypeScript
 - PDO
 
 ## 🗂️ Sobre o sistema
